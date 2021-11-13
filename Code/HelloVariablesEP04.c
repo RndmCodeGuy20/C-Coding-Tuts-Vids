@@ -32,8 +32,10 @@ int main()
 
     d = 20.0320022018;
 
-    printf("Integer value : %d", a);
-    printf("Float value : %f", b);
-    printf("Character value : %c", c);
-    printf("Double value : %lf", d);
+    //$ Printing these numbers ⏬
+
+    printf("Integer value : %d\n", a);
+    printf("Float value : %f\n", b);
+    printf("Character value : %c\n", c);
+    printf("Double value : %lf\n", d);
 }
